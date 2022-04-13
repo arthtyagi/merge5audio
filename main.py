@@ -82,7 +82,7 @@ def window():
     description.pack()
     readme_button = tkinter.Button(root, text="README",
                                    command=lambda: call_back(
-                                       "https://github.com/mattcarrelo/Maremoto_Audio_Merger/blob/master/merge5audio/readme.md"))
+                                       "https://github.com/arthtyagi/merge5audio/blob/master/readme.md"))
     readme_button.pack()
     tkinter.Label(root, text="").pack()
     # create a label
