@@ -13,3 +13,8 @@
 This is an example of the GUI.
 
 **Quick Tip**: Head over to your desired folder in the terminal and find the path by typing `pwd` in the terminal.
+
+
+## What does this entail?
+
+I did this project for a client recently. I was supposed to make a simple command-line utility but I was like, why tf not make a simple GUI along with it too. Anyhoo, I found audio manipulation cool plus it doesn't hurt that I know a thing or two about sound engineering and music production which leads me to my new project, [TRILL AUDIO](https://github.com/arthtyagi/trillaudio).
